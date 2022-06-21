@@ -3,3 +3,15 @@
 ################################################################################
 
 /TradesManagement/bin/Debug/net5.0
+/.vs/TradesManagement/v16
+/TradesManagement/obj
+/TradesManagement.ApplicationService/bin/Debug/net5.0
+/TradesManagement.ApplicationService/obj
+/TradesManagement.Data/bin/Debug/net5.0
+/TradesManagement.Data/obj
+/TradesManagement.Domain/bin/Debug/net5.0
+/TradesManagement.Domain/obj
+/TradesManagement.Infrastructure/bin/Debug/net5.0
+/TradesManagement.Infrastructure/obj
+/TradesManagement.Tests/bin/Debug/net5.0
+/TradesManagement.Tests/obj
